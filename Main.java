@@ -5,7 +5,7 @@ import java.util.*;
 class Main {
   public static void main(String[] args) {
 
-    JFrame frame = new JFrame("999903456 Bubble Burst Project");
+    JFrame frame = new JFrame("Bubble Burst Game");
     frame.setSize(400, 400);
     frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     frame.setVisible(true);
